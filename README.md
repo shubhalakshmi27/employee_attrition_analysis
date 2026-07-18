@@ -1,5 +1,7 @@
 # HR Employee Attrition Analytics & Prediction Dashboard
 
+🔗 **Live Interactive App:** [👉 Click here to view the live dashboard]([PASTE_YOUR_STREAMLIT_URL_HERE](https://employeeattritionanalysis-fgffyhxgvokfjrqenau5sw.streamlit.app/))
+
 An end-to-end Machine Learning and Business Intelligence solution designed to help HR departments understand historical turnover trends and proactively flag active employees at risk of resigning.
 
 ## 🚀 Key Features
